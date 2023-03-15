@@ -18,3 +18,7 @@ All credit goes to SquareBear for making Mitsuku.
 I only made this site as a tribute to her original flash version.
 
 Enjoy!
+
+## Video Demo
+
+https://youtu.be/RRluSh9raNM
