@@ -1,5 +1,5 @@
-var BOTKEY = '';
-var client_name = '';
+const BOTKEY = '';
+const client_name = '';
 
 var timePerLetter = 40;
 var newLineCharacter = '|';
