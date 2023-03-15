@@ -1,5 +1,5 @@
-const BOTKEY = '28efc3a555b411437a8276179a280afaac87709c8604ca53eb3a213cde3a02d5';
-const client_name = 'yodai0034';
+const BOTKEY = '';
+const client_name = '';
 
 var timePerLetter = 40;
 var newLineCharacter = '|';
